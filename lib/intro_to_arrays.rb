@@ -5,3 +5,7 @@ end
 def array_with_two_elements
   array = Array.new(2,true)
 end
+
+def first_element(el)
+  array[el]
+end
