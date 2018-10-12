@@ -3,5 +3,5 @@ def instantiate_new_array
 end
 
 def my_two_array
-  array = 
+  array = Array.new(2,true)
 end
